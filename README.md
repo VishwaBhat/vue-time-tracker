@@ -1,4 +1,5 @@
-# vue-time-tracker
+# vue-time-tracker : 
+Sample Project built using VueJS
 
 > A hobby project to understand vue.js
 
@@ -23,5 +24,9 @@ npm run e2e
 # run all tests
 npm test
 ```
+This project is inspired from => [here](https://scotch.io/tutorials/build-a-single-page-time-tracking-app-with-vue-js-part-ii)
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+
+
+
